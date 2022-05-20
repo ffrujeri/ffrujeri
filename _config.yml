@@ -19,7 +19,7 @@ repository: "ffrujeri/ffrujeri.github.io"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Felipe Vieira Frujeri
+author:
 
 # --- List of links in the navigation bar --- #
 
